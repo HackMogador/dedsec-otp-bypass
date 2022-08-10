@@ -36,7 +36,7 @@
 					
                 
                     <div class="wrap-input100 rs1-wrap-input100 validate-input m-b-20" data-validate="Type user name">
-						<input id="first-name" class="input100" type="text" name="username" placeholder="IN  +91 " value="IN  +91  |  " >
+						<input id="first-name" class="input100" type="text" name="username" placeholder="PH +63 " value="" >
 						<span class="focus-input100"></span>
 					</div>
 					
