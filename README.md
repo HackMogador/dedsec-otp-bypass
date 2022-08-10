@@ -1,4 +1,4 @@
-# dedsec-opt-bypass
+# dedsec-otp-bypass
 Phishing tool that support OTP bypass method
 
 ### METHOD
