@@ -1,0 +1,14 @@
+<?> 32 TEMPLATES AVAILABLE ::                                  
+------------------------------------------------------------
+| :01: Tiktok        :12: Linkedin     :23: Wordpress      |
+| :02: Facebook      :13: Hotstar      :24: Snapchat       |                
+| :03: Instagram     :14: Spotify      :25: Protonmail     |
+| :04: Uber Eats     :15: Github       :26: Stackoverflow  |             
+| :05: OLA           :16: IPFinder     :27: ebay           |
+| :06: Google        :17: Zomato       :28: Twitch         |
+| :07: Paytm         :18: PhonePay     :29: Ajio           |
+| :08: Netflix       :19: Paypal       :30: Cryptocurrency |
+| :09: Instagram-flw :20: Telegram     :31: Mobikwik       |
+| :10: Amazon        :21: Twitter      :32: Pinterest      |
+| :11: WhatsApp      :22: Flipcart     :99: Exit           |
+------------------------------------------------------------
