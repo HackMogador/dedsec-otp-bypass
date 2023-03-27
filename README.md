@@ -5,8 +5,8 @@ Phishing tool that support OTP bypass method
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
 ### SCREENSHOT
-![1](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/banner.png)
-![2](https://github.com/0xbitx/dedsec-otp-bypass/blob/main/image/banner1.png)
+<img src="/image/banner.png" width="100%"/>
+<img src="/image/banner1.png" width="100%"/>
 
 <br>
 <br>
