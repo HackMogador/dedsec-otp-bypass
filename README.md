@@ -1,5 +1,5 @@
-# dedsec-otp-bypass
-Phishing tool Support OTP bypass method
+<h1 align="center"> DEDSEC OTP BYPASS </h1>
+<h4 align="center">Phishing tool Support OTP bypass method</h4>
 
 ### METHOD
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
@@ -51,10 +51,7 @@ When victim enter his credentials, you need to go to original website and use th
 * Bash Script
 
 
-### Contact For Issues 
-* https://discord.gg/pDxJjPHRfs
+<h1 align="center"> DISCLAIMER </h1>
 
-### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
 
-The use of the dedsec tool is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
